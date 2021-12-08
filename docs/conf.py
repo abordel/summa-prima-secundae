@@ -55,6 +55,6 @@ html_favicon = '_static/Simple_Labarum2.ico'
 html_theme_options = {"toc_title": "Articles",
                       "use_download_button": False,
                       "use_fullscreen_button": False,
-                      "extra_navbar": "<p>Part of <a href=file:///Users/ambrose/work/docs/catholic_docs_project/_build/html/index.html>The Catholic Doc Proj📚🍯</a></p>"}
+                      "extra_navbar": "<p>Part of <a href=https://tcdp.readthedocs.io/en/latest/>The Catholic Doc Proj📚🍯</a></p>"}
 
 html_css_files = ['css/custom.css']
