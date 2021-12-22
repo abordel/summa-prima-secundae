@@ -430,9 +430,7 @@ natural power, is not of the same species as that perfect operation
 which is man's happiness: since operation takes its species from its
 object. Consequently the argument does not prove.
 
-## Whether Man Attains Happiness Through The Action Of Some Higher
-
-Creature?
+## Whether Man Attains Happiness Through The Action Of Some Higher Creature?
 
 ### *Objection 1*
 It would seem that man can be made happy through the
@@ -513,9 +511,7 @@ the vision of the Divine Essence, as was stated in the First Part (Q.
 106, A. 1): since in order to see this, all are immediately
 enlightened by God.
 
-## Whether Any Good Works Are Necessary That Man May Receive Happiness
-
-from God?
+## Whether Any Good Works Are Necessary That Man May Receive Happiness From God?
 
 ### *Objection 1*
 It would seem that no works of man are necessary that he

@@ -101,9 +101,7 @@ otherwise than through the act; as place and condition of person;
 whereas others belong to the agent by reason of the act, as the manner
 in which the act is done.
 
-## Whether Theologians Should Take Note Of The Circumstances Of Human
-
-Acts?
+## Whether Theologians Should Take Note Of The Circumstances Of Human Acts?
 
 ### *Objection 1*
 It would seem that theologians should not take note of
@@ -187,9 +185,7 @@ vicious acts, just as the moralist does; and with the orator and
 politician he considers acts according as they are deserving of
 reward or punishment.
 
-## Whether The Circumstances Are Properly Set Forth In The Third Book Of
-
-Ethics?
+## Whether The Circumstances Are Properly Set Forth In The Third Book Of Ethics?
 
 ### *Objection 1*
 It would seem that the circumstances are not properly
@@ -271,9 +267,7 @@ man by pouring water on someone should happen to wash him, is not a
 circumstance of the washing; but that in doing so he give him a
 chill, or scald him; heal him or harm him, these are circumstances.
 
-## Whether The Most Important Circumstances Are "why" And "in What The
-
-Act Consists"?
+## Whether The Most Important Circumstances Are "why" And "in What The Act Consists"?
 
 ### *Objection 1*
 It would seem that these are not the most important

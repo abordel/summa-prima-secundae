@@ -205,9 +205,7 @@ otherwise, to the aforesaid occupation, the latter seems, as it were,
 continuous. From these remarks the replies to Objections 5 and 6 are
 evident.
 
-## Whether Happiness Is An Operation Of The Sensitive Part, Or Of The
-
-Intellective Part Only?
+## Whether Happiness Is An Operation Of The Sensitive Part, Or Of The Intellective Part Only?
 
 ### *Objection 1*
 It would seem that happiness consists in an operation of
@@ -278,9 +276,7 @@ the imperfect happiness of this life, it is otherwise; we advance
 from the perfection of the lower part to the perfection of the higher
 part.
 
-## Whether, If Happiness Is In The Intellective Part, It Is An Operation
-
-of the Intellect or of the Will?
+## Whether, If Happiness Is In The Intellective Part, It Is An Operation Of The Intellect Or Of The Will?
 
 ### *Objection 1*
 It would seem that happiness consists in an act of
@@ -394,9 +390,7 @@ the good things which make a man happy, forasmuch as it is an
 inclination of the will: just as a movement is reduced to the genus
 of its terminus, for instance, "alteration" to the genus "quality."
 
-## Whether Happiness Is An Operation Of The Speculative, Or Of The
-
-Practical Intellect?
+## Whether Happiness Is An Operation Of The Speculative, Or Of The Practical Intellect?
 
 ### *Objection 1*
 It would seem that happiness is an operation of the
@@ -575,9 +569,7 @@ Our intellect is reduced to act, in a fashion, by the
 consideration of speculative sciences, but not to its final and
 perfect act.
 
-## Whether Happiness Consists In The Knowledge Of Separate Substances,
-
-Namely, Angels?
+## Whether Happiness Consists In The Knowledge Of Separate Substances, Namely, Angels?
 
 ### *Objection 1*
 It would seem that man's happiness consists in the
