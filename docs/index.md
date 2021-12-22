@@ -184,4 +184,4 @@ question_114.md
 
 ## Original Sources
 * [Project Gutenberg #17897](https://www.gutenberg.org/ebooks/17897)
-* [wikipedia](https://en.wikipedia.org/wiki/Thomas_Aquinas#/media/File:St-thomas-aquinas.jpg)
+* [Google Art Project](https://commons.wikimedia.org/wiki/File:Francisco_de_Zurbar%C3%A1n_001.jpg)
